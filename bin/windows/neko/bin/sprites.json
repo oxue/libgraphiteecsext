@@ -1,0 +1,16 @@
+[
+{
+	"name":"newtiles",
+	"x":0,
+	"y":0,
+	"width":128,
+	"height":64
+},
+{
+	"name":"minetiles",
+	"x":0,
+	"y":65,
+	"width":96,
+	"height":16
+}
+]

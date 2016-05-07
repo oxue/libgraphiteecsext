@@ -1,0 +1,42 @@
+{
+    "name": "map1",
+    "tilesize": 16,
+	"mapWidth": 4,
+	"mapHeight": 4,
+    "tiles": [
+        {
+            "autotiles": [
+                0
+            ],
+            "solid": false
+        },
+        {
+            "autotiles": [
+                1
+            ],
+            "solid": false
+        },
+        {
+            "autotiles": [
+                2
+            ],
+            "solid": true
+        }
+    ],
+    "layers": [
+        {
+            "offsetx": 0,
+            "offsety": 0,
+            "height": 4,
+            "width": 4,
+            "data": "2222200220022222"
+        },
+		{
+            "offsetx": 1,
+            "offsety": 1,
+            "height": 4,
+            "width": 4,
+            "data": "2222200220022222"
+        }
+    ]
+}

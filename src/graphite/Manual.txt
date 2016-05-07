@@ -1,0 +1,8 @@
+----------------------------------------------------------------------------------------------------
+Tilemap Manual
+
+Terminology
+
+ID index : Each tile type has it's own distinctive ID in it's own tilesheet. Prototype data storage is commonly ordered based on the order of ID index. Most of the time just referred to as index.
+
+cache index : this index corresponds to the location on the actual graphic of the tilesheet itself. Tiles of the same type can have different cache values so autotiling and different graphics are possible for the same tile type.
